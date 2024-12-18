@@ -1,0 +1,1 @@
+print('Middle of folder')
